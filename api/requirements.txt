@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+torch
+torchvision
+timm
+pillow
+kagglehub
+tqdm
+python-multipart
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+timm
+pillow
+kagglehub
