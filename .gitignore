@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+vitenv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pyenv
+python-version
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# caches
+.pytest_cache/
+.mypy_cache/
+
+# models and saved artifacts
+saved_model/
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# API runtime
+api/__pycache__/
