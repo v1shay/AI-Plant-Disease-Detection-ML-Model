@@ -6,6 +6,5 @@ python-multipart==0.0.6
 pillow==10.2.0
 numpy==1.26.4
 transformers==4.36.2
-
 torch==2.2.0+cpu
 torchvision==0.17.0+cpu
