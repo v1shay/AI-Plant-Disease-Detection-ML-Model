@@ -5,10 +5,6 @@ uvicorn==0.27.0
 python-multipart==0.0.6
 pillow==10.2.0
 numpy==1.26.4
-<<<<<<< HEAD
-transformers==4.36.2
-=======
->>>>>>> 392e647cc67c18a1ea9af7da4eeaba3e0fa4fc0f
 torch==2.2.0+cpu
 torchvision==0.17.0+cpu
 transformers==4.36.2
